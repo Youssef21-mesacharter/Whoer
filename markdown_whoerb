@@ -1,4 +1,12 @@
 # Whoerb 
 
-## Whoerminib
+## Question 1 and 3
+
+### Question 1
+
+Answer: ***We use branches in Git when we want to work on different versions of a project without messing up the main one.***
+
+### Question 3
+
+Answer: ***We use git pull to make sure our computer has the latest version of the project from the online Git repository.***
 
